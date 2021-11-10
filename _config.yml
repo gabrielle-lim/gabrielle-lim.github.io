@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Gabrielle Lim"
   avatar           : "https://gabriellelim.com/RC-PC-Gabrielle-Lim.jpg"
-  bio              : "Your biography for the left-hand sidebar"
+  bio              : "Mostly the politics of information, the internet, some IR, and security"
   location         : "Canada/USA"
   employer         :
   pubmed           : 
@@ -176,7 +176,7 @@ kramdown:
 # Collections
 collections:
   teaching:
-    output: true
+    output: false
     permalink: /:collection/:path/
   publications:
     output: true

@@ -13,7 +13,7 @@ Last updated: November 10, 2021
 
 News
 ======
-I started the first year of my PhD program in the Department of Politial Science at the University of Toronto! 
+I started the first year of my PhD program in the Department of Political Science at the University of Toronto! 
 
 I am also organizing a workshop on ["The True Costs of Misinformation"](https://shorensteincenter.org/true-costs-misinformation-workshop-call-participants/). It will be a two-day in-person event in Cambridge, MA from March 9 to 10, 2022. Deadline for applications is December 15, 2021. CFP [here](https://shorensteincenter.org/true-costs-misinformation-workshop-call-participants/). 
 

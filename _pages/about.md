@@ -7,8 +7,6 @@ redirect_from:
   - /about/
   - /about.html
 ---
-Hello.
-======
 I am a researcher with the Technology and Social Change Project at Harvard Kennedy School's Shorenstein Center, as well as an associate at the Citizen Lab at the University of Toronto. I research information technology and security, with a focus on media manipulation, censorship, conflict, and civil society. Previously, I was a grantee of the Open Society Foundations, where my research focused on far-right extremism online. I also completed a fellowship through the Open Technology Fund's Information Controls Fellowship Program, where I studied the securitization of “fake news” and censorship.
 
 Last updated: November 10, 2021

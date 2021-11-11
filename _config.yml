@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Gabrielle Lim"
-  avatar           : "https://gabriellelim.com/RC-PC-Gabrielle-Lim.jpg"
+  avatar           : "https://gabrielle-lim.github.io/images/RC-PC-Gabrielle-Lim.jpg"
   bio              : "Mostly the politics of information, the internet, some IR, and security"
   location         : "Canada/USA"
   employer         :
@@ -225,8 +225,8 @@ defaults:
     values:
       layout: single
       author_profile: true
-      share: true
-      comments: true
+      share: false
+      comments: false
   # _portfolio
   - scope:
       path: ""
@@ -243,7 +243,7 @@ defaults:
     values:
       layout: talk
       author_profile: true
-      share: true
+      share: false
 
 # Sass/SCSS
 sass:

@@ -7,15 +7,13 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I am a researcher with the [Technology and Social Change Project](https://shorensteincenter.org/programs/technology-social-change/) at Harvard Kennedy School's Shorenstein Center, as well as an associate at the [Citizen Lab](https://citizenlab.ca/) at the University of Toronto. I research information technology and security, with a focus on media manipulation, censorship, conflict, and civil society. Previously, I was a grantee of the Open Society Foundations, where my research focused on far-right extremism online. I also completed a fellowship through the Open Technology Fund's Information Controls Fellowship Program, where I studied the securitization of “fake news” and censorship.
+I am a researcher with the [Technology and Social Change Project](https://shorensteincenter.org/programs/technology-social-change/) at Harvard Kennedy School's Shorenstein Center, as well as a Doctoral Fellow at the [Citizen Lab](https://citizenlab.ca/) at the University of Toronto. I research information technology and security, with a focus on media manipulation, censorship, conflict, and civil society. Previously, I was a grantee of the Open Society Foundations, where my research focused on far-right extremism online. I also completed a fellowship through the Open Technology Fund's Information Controls Fellowship Program, where I studied the securitization of “fake news” and censorship.
 
-Last updated: November 10, 2021
+Last updated: September 8, 2022
 
 News
 ======
-I started the first year of my PhD program in the Department of Political Science at the University of Toronto! 
-
-I am also organizing a workshop on ["The True Costs of Misinformation"](https://shorensteincenter.org/true-costs-misinformation-workshop-call-participants/). It will be a two-day in-person event in Cambridge, MA from March 9 to 10, 2022. Deadline for applications is December 15, 2021. CFP [here](https://shorensteincenter.org/true-costs-misinformation-workshop-call-participants/). 
+I'll be attending the Association of Internet Researchers (AoIR) conference in Dublin this year, as well as presenting at the Society for Social Studies of Science (4S) in Cholula, Mexico.  
 
 Select Writing
 ======

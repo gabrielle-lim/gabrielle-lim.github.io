@@ -7,7 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I am a Doctoral Fellow at the [Citizen Lab](https://citizenlab.ca/) at the University of Toronto. I research information technology and security, with a focus on media manipulation, censorship, conflict, and civil society. Previously, I was a researcher with the [Technology and Social Change Project](https://shorensteincenter.org/programs/technology-social-change/) at Harvard Kennedy School's Shorenstein Center.
+I am a Doctoral Fellow at the [Citizen Lab](https://citizenlab.ca/) at the Munk School of Global Affairs and Public Policy, University of Toronto. I research information technology and security, with a focus on media manipulation, censorship, conflict, and civil society. Previously, I was a researcher with the [Technology and Social Change Project](https://shorensteincenter.org/programs/technology-social-change/) at Harvard Kennedy School's Shorenstein Center. I am currently doing my PhD in Political Science at the University of Toronto.
 
 Last updated: June 14, 2023
 
